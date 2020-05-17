@@ -1,18 +1,19 @@
-grass 4/28
-grass 4/30
-grass 5/01
-grass 5/02
-grass 5/03
-grass 5/04
-grass 5/05
-grass 5/06
-grass 5/07
-grass 5/08
-grass 5/09
-grass 5/10
-grass 5/11
-grass 5/12
-grass 5/13
-grass 5/14
-grass 5/15
+grass 4/28 잔디심기 이제 잘해보자
+grass 4/30 어제 잔디심기 못했으니까 앞으로 신경써서 하자
+grass 5/01 오늘은 오석관 가자!!
+grass 5/02 공부를 좀 더 했으면 좋았을텐데..
+grass 5/03 고기를 맛있게 먹어서 좋다
+grass 5/04 매우 평범한 일상이었다
+grass 5/05 시험공부 파이팅하자
+grass 5/06 시험을 잘봤다 끝나니까 속이 후련하다
+grass 5/07 친구들을 만나서 좋았다
+grass 5/08 과제가 밀렸다 꾸준히 하자
+grass 5/09 집에 가고 싶다
+grass 5/10 운동을 좀 해야겠다
+grass 5/11 운동을 시작한 것에 감사합니다
+grass 5/12 오늘 수고 많았다 
+grass 5/13 유튜브를 적당히 보면 좋을 것 같다
+grass 5/14 잔디심기를 꾸준히 잊지않고 하고 있어서 감사하다
+grass 5/15 밥 좀 잘 챙겨먹자..
 grass 5/16	오늘하루도수고했다 조금만 더 힘내자
+grass 5/17 일상에 익숙해지기
